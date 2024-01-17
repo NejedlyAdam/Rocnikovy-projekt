@@ -8,7 +8,7 @@ Zde je již zmíněný zdroj z CD přehrávače kterým proudí, 12V, -12V.
 ![IMG_1813](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/4a2e85e3-84ea-4aeb-992c-2f40c9d9338a)
 
 Zde je připravená naše malá branka přidělaná k 5V motůrku, a dva mikrospínače ,které nám budou sloužit k tomu, aby se nám brána zastavila tam kde budeme potřebovat.
-![IMG_1814](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/e49f94b0-7665-4535-8ffa-1cca36e72776)
+![IMG_1810](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/846472e6-a6e0-4792-bd4c-7ca546e2ca6a)
 
 Zde už máme připravený mikrospínač
 ![IMG_1817](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/1190c40f-33f8-4002-bf08-ebec37c3678e)
