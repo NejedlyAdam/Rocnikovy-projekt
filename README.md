@@ -24,3 +24,21 @@ https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/76d91c3d-8fc6-
 Můj děda
 # Literatura
 Žádnou jsem nepoužil, vše bylo z cela vymyšlené z vlastní hlavy, motůrek mi, ale sestavil děda, a v podstatě všechno až na žárovku bylo použito ze starého CD přehrávače.
+
+# Zadání
+Zapojil jsem LED pásky přes radio v autě.
+# Projekt
+Zde jsme si vyndali rádio, abychom našli zdroj vypínaní a zapínání, přes které to následně bude fungovat. 
+![zapojeni](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/f269ba49-6691-4b68-b2ea-33b25ad90a05)
+
+Zde už máme navedené led pásky
+![zapojeni 2](https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/262fb219-e28a-4d64-b1f5-c6b052f8e1a8)
+# Výrobek
+Nakonec tu máme finální projekt
+https://github.com/NejedlyAdam/Rocnikovy-projekt/assets/156932041/da9dcdbf-6ec4-47d6-84be-58cb60c5e43c
+# Spolupracovník
+Můj děda (tentokrát z Olešnice)
+# Literatura
+Žádnou jsem nepoužil, vše bylo z cela vymyšlené z vlastní hlavy, led pásky jsou nejspíše z lidlu, děda si je kupoval když si je chtěl dávat za televizi, stačilo vyndat rádio, provléct kabel s led pásky, následně zasunout radio tam kde bylo a přilepit led pásky.
+
+
